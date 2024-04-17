@@ -1,8 +1,6 @@
-![](https://i.imgur.com/xG74tOh.png)
 
-# Exercício 01
 
-## ControladorDeRodadas.com
+# Exercício - ControladorDeRodadas.com
 
 Para este exercício deverá ser criado um servidor com nodejs para controlar rodadas de um jogo. Dado um array de nomes de jogadores que estará no script do servidor, deveremos a cada requisição ao servidor, responder com uma mensagem dizendo de quem é a vez de jogar.
 
@@ -35,14 +33,5 @@ E assim por diante.
 Após apresentar o nome do último jogador, a rodada finaliza e portanto, o próximo nome a ser retornado na próxima requisição deverá ser o do primeiro jogador, iniciando uma nova rodada.
 
 O servidor deverá utilizar a porta 3000 e ser acessado através do endereço http://localhost:3000, para onde enviaremos as requisições e de onde receberemos as respostas com as mensagens mencionadas acima.
-
----
-
-Preencha a checklist para finalizar o exercício:
-
--   [ ] Resolver o exercício revendo a aula se necessário
--   [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
--   [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
--   [ ] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
 
 ###### tags: `backend` `lógica` `exercício` `nodeJS` `JavaScript`
