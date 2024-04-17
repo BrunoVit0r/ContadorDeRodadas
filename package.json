@@ -1,0 +1,22 @@
+{
+  "name": "contadorderodadas",
+  "version": "1.0.0",
+  "description": "Função de indicar qual o jogador da rodada atual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BrunoVit0r/ContadorDeRodadas.git"
+  },
+  "author": "Bruno Vitor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoVit0r/ContadorDeRodadas/issues"
+  },
+  "homepage": "https://github.com/BrunoVit0r/ContadorDeRodadas#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
